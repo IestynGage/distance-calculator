@@ -6,6 +6,6 @@ A website that calculates the total distance traveled using pace + distance.
 
 ```sh
 $ yarn build
-# Remeber to change links in index.html from "/foo" tp "./foo"
+# Remeber to change links in index.html from "/foo" to "./foo"
 $ git subtree push --prefix dist/ origin gh-pages
 ```
