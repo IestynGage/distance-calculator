@@ -36,6 +36,11 @@ h1 {
   line-height: 1.1;
 }
 
+h2 {
+  font-size: 1.6em;
+  line-height: 1.1;
+}
+
 .card {
   padding: 2em;
 }
@@ -59,6 +64,14 @@ select {
   cursor: pointer;
   transition: border-color 0.25s;
   background-color: white;
+}
+
+.secondary {
+  color: #888;
+}
+
+p {
+  margin: 4px 0 0 0;
 }
 
 @media (prefers-color-scheme: light) {

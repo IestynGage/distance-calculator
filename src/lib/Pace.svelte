@@ -1,6 +1,8 @@
 <script lang="ts">
-  export let units;
-  export let pacePerHour:number;
+  import type { Units } from '../types/units.type'
+
+  export let units:Units;
+  export let pacePerHour:string;
 </script>
 
 <div>
