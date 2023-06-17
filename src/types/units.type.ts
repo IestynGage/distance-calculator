@@ -1,1 +1,1 @@
-export type Units = "Mph" | "Kph"
+export type Units = "Mph" | "Kph";
